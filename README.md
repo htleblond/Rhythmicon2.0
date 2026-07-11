@@ -1,4 +1,4 @@
-# Rhythmicon2.0
+# Rhythmicon 2.0
 
 ![Alt Text](rhythmicon2screenshot.png)
 
